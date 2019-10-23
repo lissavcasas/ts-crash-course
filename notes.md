@@ -12,3 +12,4 @@
 - Enum
 - Generics
 
+tsc types.ts -w
