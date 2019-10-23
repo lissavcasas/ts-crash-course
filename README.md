@@ -1,6 +1,8 @@
-## What does TypeScript Offer?
+## TypeScript Crash Course , Brad Traversy
 
-## TS Types
+### What does TypeScript Offer?
+
+### TS Types
 - String
 - Number 
 - Boolean
