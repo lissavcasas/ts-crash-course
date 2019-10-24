@@ -1,4 +1,5 @@
-## TypeScript Crash Course , Brad Traversy
+## TypeScript Crash Course 
+My notes from Brad Traversy and Awais Mirza
 
 ### What does TypeScript Offer?
 
@@ -14,4 +15,11 @@
 - Enum
 - Generics
 
-tsc types.ts -w
+Run this command: 
+tsc -w
+
+### Type Annotation
+
+var [identifier] : [type annotation] = value;
+var [identifier] : [type annotation];
+var [identifier] = value;

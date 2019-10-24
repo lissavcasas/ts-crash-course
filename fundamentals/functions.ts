@@ -25,6 +25,6 @@ function getName(firstname: string, lastname?: string): string {
 console.log(getName('John'));
 
 //void returns anything at all
-function myVoid():void{
+/* function myVoid():void{
   return ;
-};
+}; */

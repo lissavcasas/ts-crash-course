@@ -1,18 +1,18 @@
 /* DECLARE VARIABLES*/
-var myString;
-var myNum;
-var myBool;
-var myVar;
+let myString;
+let myNum;
+let myBool;
+let myVar;
 /* let strArr: string[];
 let numArr: number[];
 let booArr:boolean[]; */
-var strArr;
-var numArr;
-var booArr;
-var strNumTuple;
-var myVoid;
-var myNull;
-var myUndefined;
+let strArr;
+let numArr;
+let booArr;
+let strNumTuple;
+let myVoid;
+let myNull;
+let myUndefined;
 /* ASSIGN VALUES */
 myString = 'Hello Wolrd'.slice(0, 3); //Hel
 myNum = 5.5 + 5;

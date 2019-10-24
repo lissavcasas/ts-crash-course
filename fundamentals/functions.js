@@ -3,7 +3,7 @@ function getSum(num1, num2) {
 }
 ;
 //console.log(getSum(1,4));
-var mySum = function (num1, num2) {
+let mySum = function (num1, num2) {
     if (typeof num1 == 'string') {
         num1 = parseInt(num1);
     }
@@ -23,7 +23,6 @@ function getName(firstname, lastname) {
 ;
 console.log(getName('John'));
 //void returns anything at all
-function myVoid() {
-    return;
-}
-;
+/* function myVoid():void{
+  return ;
+}; */ 
