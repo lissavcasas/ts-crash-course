@@ -20,6 +20,6 @@ tsc -w
 
 ### Type Annotation
 
-var [identifier] : [type annotation] = value;
-var [identifier] : [type annotation];
-var [identifier] = value;
+- var [identifier] : [type annotation] = value;
+- var [identifier] : [type annotation];
+- var [identifier] = value;
