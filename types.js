@@ -22,3 +22,17 @@ function addWithTypeGuard(arg1, arg2) {
     return arg1.toString() + arg2.toString();
 }
 console.log(addWithTypeGuard('3', '1'));
+function addWithAlias(arg1, arg2) {
+    return arg1.toString() + arg2.toString();
+}
+//Null and Undefined
+function testUndef(test) {
+    console.log('test parameter: ', test);
+}
+testUndef(5);
+testUndef(undefined);
+testUndef(null);
+//In Js, if a variable is declared but not assigned value, it will return undefined
+//null is a keyword
+//undefined significa nada, pero absolutamente nada. Es la forma que tiene Js para decir que algo no existe o no encontró el valor.
+//null en cambio, es algo, que significa vacío.
